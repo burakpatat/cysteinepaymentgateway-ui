@@ -6,4 +6,8 @@ It is the UI example of the CysteinePaymentGateway project. It prints the HTML r
 
 [Go To Cysteine Payment Module](https://github.com/burakpatat/CysteinePaymentGateway)
 
+```bash
+  npm install -> npm start
+```
+
 
